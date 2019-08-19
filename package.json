@@ -1,0 +1,34 @@
+{
+  "name": "clicky-game-react",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple game where all you have to do is remember not toclick the same image twice",
+  "main": " ",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanofuxion/Clicky-Game-React.git"
+  },
+  "keywords": [
+    "React",
+    "game",
+    "clicky",
+    "trilogy"
+  ],
+  "author": "Nanofuxion (Jordan Miller)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanofuxion/Clicky-Game-React/issues"
+  },
+  "homepage": "https://github.com/nanofuxion/Clicky-Game-React#readme"
+}
